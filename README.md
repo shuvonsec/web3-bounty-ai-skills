@@ -1,6 +1,6 @@
 <div align="center">
 
-# web3-bounty-ai-skills
+# web3-bug-bounty-ai-skills
 
 Smart contract bug bounty skills for Claude Code, Claude AI, and other AI tools.
 Built from 2,749 Immunefi reports, 681 DeFiHack reproductions, and real hunts.
@@ -67,7 +67,7 @@ Read in order. Each file ends with `→ NEXT`. After file 05 you can hunt on you
 **Option 1 — drop into your existing project:**
 
 ```bash
-git clone https://github.com/shuvonsec/web3-bounty-ai-skills.git .claude/skills/web3
+git clone https://github.com/shuvonsec/web3-bug-bounty-ai-skills.git .claude/skills/web3
 claude
 ```
 
@@ -79,8 +79,8 @@ Read all files in .claude/skills/web3/ starting from 00-START-HERE.md
 **Option 2 — standalone workspace:**
 
 ```bash
-git clone https://github.com/shuvonsec/web3-bounty-ai-skills.git
-cd web3-bounty-ai-skills
+git clone https://github.com/shuvonsec/web3-bug-bounty-ai-skills.git
+cd web3-bug-bounty-ai-skills
 claude
 ```
 
