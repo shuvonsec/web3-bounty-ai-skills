@@ -69,7 +69,7 @@ Read in order. Each file ends with `→ NEXT`.
 
 ```bash
 # Clone into your project's Claude skills directory
-git clone https://github.com/shuvonsec/web3-skills-brain.git .claude/skills/web3-brain
+git clone https://github.com/shuvonsec/web3-bounty-ai-skills.git .claude/skills/web3-brain
 
 # Open Claude Code in your project
 claude
@@ -84,8 +84,8 @@ Read all files in .claude/skills/web3-brain/ starting with 00-start-here.md
 
 ```bash
 # Clone and open directly
-git clone https://github.com/shuvonsec/web3-skills-brain.git
-cd web3-skills-brain
+git clone https://github.com/shuvonsec/web3-bounty-ai-skills.git
+cd web3-bounty-ai-skills
 claude
 ```
 
